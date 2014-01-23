@@ -4,7 +4,9 @@ Imports System.Windows.Markup
 
 Partial Public Class App
     Inherits Application
+    Public Sub ABC()
 
+    End Sub
     ''' <summary>
     ''' Provides easy access to the root frame of the Phone Application.
     ''' </summary>
